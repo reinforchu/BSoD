@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: #1173aa;
+    color: #ffffff;
+    line-height: 100%;
+    margin: 180px 0 0 200px;
+}
+#face {
+    font-family: "trebuchet MS",Verdana,sans-serif;
+    font-size: 1000%;
+}
+#description {
+    font-family: "trebuchet MS",Verdana,sans-serif;
+    font-size: 200%;
+    letter-spacing: 0.025em;
+    margin-left: 20px;
+}
+#guide {
+    font-family: "trebuchet MS",Verdana,sans-serif;
+    font-size: 110%;
+    letter-spacing: 0.01em;
+    margin-left: 20px;
+}

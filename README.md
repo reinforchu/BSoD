@@ -1,4 +1,3 @@
-bsod.html
-=========
+# bsod.html
 
-It is a html page like bsod.
+It is a html page like BSoD.
